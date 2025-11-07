@@ -1,6 +1,4 @@
-## Primera versión de mi hoja de vida
-markdown
-CopiarEditar
+
 # Mi hoja de vida
 **Nombre completo:** Fabian Andres Solano
 **Correo electrónico:**fabian.solano-r@uniminuto.edu.co
